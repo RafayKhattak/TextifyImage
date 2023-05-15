@@ -1,6 +1,7 @@
 # TextifyImage
 TextifyImage is a web application that leverages the power of AI to generate images from text prompts. By utilizing OpenAI's DALL-E model and Huggingface's Stable Diffusion model, TextifyImage allows users to transform their textual descriptions into stunning visual representations.
-![Uploading Screenshot (449).png…]()
+![Screenshot (449)](https://github.com/RafayKhattak/TextifyImage/assets/90026724/3765a904-4a4a-481a-addc-a0188f2b4165)
+
 ## Features
 - DALL-E Image Generation: TextifyImage utilizes OpenAI's DALL-E model to generate high-quality images based on user-provided text prompts.
 - Huggingface Diffusers Image Generation: TextifyImage also leverages Huggingface's Stable Diffusion model to generate AI-based images from text prompts.
